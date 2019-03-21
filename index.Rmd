@@ -1,0 +1,31 @@
+---
+title: "Dave McLaughlin"
+---
+
+<img align="right" src="C:/Users/d.wm.mclaughlin/Dropbox/dwm_website/photo/David_McLaughlin_Headshot_022816.jpg" width = "400" HSPACE = "50">
+
+<font color="#18BC9C"><h3>
+PhD Candidate
+<br>
+Agricultural and Resource Economics
+<br>
+University of California, Berkeley
+</h3></font>
+
+<br>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+
+Dave McLaughlin is a PhD Candidate in the [Department of Agricultural and Resource Economics](https://are.berkeley.edu) at the [University of California, Berkeley](https://www.berkeley.edu). His main research interests are environmental and energy economics, public economics, and the economics of water resources.
+
+Dave loves working with data, running regressions, devising novel identification strategies to causally estimate economic parameters, reading about and using machine learning, researching and provising insights into environmental issues which are policy relevant. Dave likes to run, make pizza, go camping/hiking, and play board games (his favorite being [Modern Art](https://boardgamegeek.com/boardgame/118/modern-art)).
+
+Please feel free to [reach out to Dave](contact.html).
+<!-- Calendly link widget begin -->
+<!-- <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> -->
+<!-- <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>You can also -->
+<!-- <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/edwardarubin');return false;">schedule a meeting in office hours</a>. -->
+<!-- Calendly link widget end -->
+
+<!-- ![](Photos/theoEdRedwoods.jpg) -->

@@ -1,0 +1,31 @@
+name: "my-website"
+navbar:
+  title: "Dave McLaughlin"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: cv.html
+    - text: "About"
+      href: about.html
+    - text: "More"
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+        - text: "Page B"
+          href: page-b.html
+        - text: "---------"
+        - text: "Heading 2"
+        - text: "Page C"
+          href: page-c.html
+        - text: "Page D"
+          href: page-d.html
+  right:
+    - icon: fa-question fa-lg
+      href: https://example.com
